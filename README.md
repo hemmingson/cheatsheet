@@ -4,7 +4,7 @@ teddy always reminds me of obeying the law and ethics
 
 ## Table of Contents
 
-- [commit message](##commit-message)
+- [commit message](#commit-message)
 
 ## commit message
 
