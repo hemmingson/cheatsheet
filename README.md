@@ -2,9 +2,26 @@
 
 teddy always reminds me of obeying the law and ethics
 
+`priority` 🔴 🟠 🟡 🔵
+
 ## Table of Contents
 
+- [cheatsheet](#cheatsheet)
+
 - [commit message](#commit-message)
+
+## cheatsheet
+
+1. carbon
+
+   1. `theme` one light
+   1. `opacity` 0
+   1. `window controls` false
+   1. `drop shadow` false
+
+1. excalidraw
+
+   1. `export` svg
 
 ## commit message
 
