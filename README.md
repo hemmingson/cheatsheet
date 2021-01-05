@@ -1,6 +1,6 @@
-# 🧸
+![](assets/favicon.ico)
 
-teddy always reminds me of obeying the law and ethics
+he always reminds me of obeying the law and ethics
 
 `priority` 🔴 🟠 🟡 🔵
 
