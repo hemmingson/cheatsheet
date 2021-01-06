@@ -6,11 +6,13 @@ he always reminds me of obeying the law and ethics
 
 ## Table of Contents
 
-- [cheatsheet](#cheatsheet)
+- [create row](#create-row)
 
 - [commit message](#commit-message)
 
-## cheatsheet
+- [responsive layout](#responsive-layout)
+
+## create row
 
 1. carbon
 
@@ -40,3 +42,11 @@ he always reminds me of obeying the law and ethics
 1. `test` testing
 
 1. `chore` regular code maintenance
+
+## responsive layout
+
+1. media queries
+
+   1. `mobile` max 767
+   1. `tablet` min 768 max 1023
+   1. `desktop` min 1024
