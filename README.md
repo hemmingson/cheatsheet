@@ -19,7 +19,10 @@ he always reminds me of obeying the law and ethics
    1. `theme` one light
    1. `opacity` 0
    1. `window controls` false
+   1. `padding` 0
    1. `drop shadow` false
+   1. `font` fira code
+   1. `export` size 1x svg
 
 1. excalidraw
 
