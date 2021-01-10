@@ -1,14 +1,16 @@
 ![](assets/favicon.ico)
 
-he always reminds me of obeying the law and ethics
+cheatsheet
 
 `priority` 🔴 🟠 🟡 🔵
+
+---
 
 ## Table of Contents
 
 - [resource](#resource)
 
-- [arsenal](#arsenal)
+- [tech stack](#tech-stack)
 
 - [commit message](#commit-message)
 
@@ -52,14 +54,14 @@ he always reminds me of obeying the law and ethics
 1. [BundlePhobia](https://bundlephobia.com/)
 1. [Perfection Kills](http://perfectionkills.com/)
 
-## arsenal
+## tech stack
 
-| type        | link                                                |
-| ----------- | --------------------------------------------------- |
-| style       | [styled-components](https://styled-components.com/) |
-| bundler     | [parcel](https://parceljs.org/)                     |
-| scaffolding | [yeoman](https://yeoman.io/)                        |
-| command     | [ink](https://github.com/vadimdemedes/ink/)         |
+| type     | link                                                |
+| -------- | --------------------------------------------------- |
+| style    | [styled-components](https://styled-components.com/) |
+| bundler  | [parcel](https://parceljs.org/)                     |
+| scaffold | [yeoman](https://yeoman.io/)                        |
+| command  | [ink](https://github.com/vadimdemedes/ink/)         |
 
 ## commit message
 
