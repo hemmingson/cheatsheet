@@ -31,6 +31,7 @@ cheatsheet
 
 1. [MostlyAdequate](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 1. [Harvard CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+1. [MIT Online Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 1. [codecademy](https://www.codecademy.com/catalog)
 
 - repo
