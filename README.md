@@ -104,3 +104,13 @@ cheatsheet
    1. `mobile` max 767
    1. `tablet` min 768 max 1023
    1. `desktop` min 1024
+
+1. best practices
+
+   1. design mobile first
+   1. decrease call to actions
+   1. design without the need to zoom in
+   1. fluid web design layout
+   1. compress and resize images
+   1. use hamburger style navigation header
+   1. disable popups
