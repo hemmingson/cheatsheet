@@ -52,6 +52,7 @@ cheatsheet
 
 1. [CDN](https://cdnjs.com/)
 1. [Can I use](https://caniuse.com/)
+1. [Pika](https://www.pika.dev/)
 1. [BundlePhobia](https://bundlephobia.com/)
 1. [Perfection Kills](http://perfectionkills.com/)
 
