@@ -103,9 +103,11 @@ cheatsheet
 
 1. media queries
 
-   1. `mobile` max 767
-   1. `tablet` min 768 max 1023
-   1. `desktop` min 1024
+   1. `extra small devices` phones, 600px and down
+   1. `small devices` portrait tablets and large phones, 600px and up
+   1. `medium devices` landscape tablets, 768px and up
+   1. `large devices` laptops and desktops, 992px and up
+   1. `extra large devices` large laptops and desktops, 1200px and up
 
 1. best practices
 
