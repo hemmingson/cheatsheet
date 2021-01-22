@@ -120,3 +120,26 @@ cheatsheet
    1. disable popups
 
 ## performance optimize
+
+1. browser
+   1. html
+      1. avoid inline or embedded code
+      1. styles up top, scripts down bottom
+      1. try out async attribute
+   1. css
+      1. minify stylesheets
+      1. combine multiple css files
+      1. prefer`<link>`over`@import`
+   1. javascript
+      1. load third party content asynchronously
+      1. cache array length
+      1. avoid using `document.write`
+      1. minimize repaints and reflows
+      1. avoid unnecessary dom manipulation
+      1. minify script
+      1. combine multiple files into one
+   1. image
+      1. use css sprites
+      1. data uri
+      1. don't rescale image in markup
+      1. optimize image by lossless, lossy, progressive jpegs, etc.
