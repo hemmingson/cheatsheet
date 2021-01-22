@@ -45,11 +45,11 @@ cheatsheet
 - blog
 
 1. [Dr. Axel Rauschmayer](https://2ality.com/)
-1. [Addy Osmani](https://addyosmani.com/)
+1. [Addy Osmani](https://addyosmani.com/blog/)
 1. [Dan Abramov](https://overreacted.io/)
-1. [Dave Ceddia](https://daveceddia.com/)
+1. [Dave Ceddia](https://daveceddia.com/archives/)
 
-- tool & quiz
+- tool
 
 1. [CDN](https://cdnjs.com/)
 1. [Can I use](https://caniuse.com/)
