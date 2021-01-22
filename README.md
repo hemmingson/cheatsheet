@@ -129,11 +129,11 @@ cheatsheet
    1. css
       1. minify stylesheets
       1. combine multiple css files
-      1. prefer`<link>`over`@import`
+      1. prefer \<link> over @import
    1. javascript
       1. load third party content asynchronously
       1. cache array length
-      1. avoid using `document.write`
+      1. avoid using document.write
       1. minimize repaints and reflows
       1. avoid unnecessary dom manipulation
       1. minify script
