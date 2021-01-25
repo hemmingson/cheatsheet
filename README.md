@@ -27,6 +27,7 @@ cheatsheet
 1. [TC39](https://tc39.es/)
 1. [MDN](https://developer.mozilla.org/en-US/)
 1. [Javascript Info](https://javascript.info/)
+1. [HTML Standard](https://html.spec.whatwg.org/)
 
 - book & course
 
