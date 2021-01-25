@@ -27,7 +27,6 @@ cheatsheet
 1. [TC39](https://tc39.es/)
 1. [MDN](https://developer.mozilla.org/en-US/)
 1. [Javascript Info](https://javascript.info/)
-1. [JavaScript Tutorial](https://www.javascripttutorial.net/)
 
 - book & course
 
@@ -40,14 +39,11 @@ cheatsheet
 1. [getify](https://github.com/getify/You-Dont-Know-JS)
 1. [33 concepts](https://github.com/leonardomso/33-js-concepts)
 1. [clean code](https://github.com/ryanmcdermott/clean-code-javascript)
-1. [airbnb style guide](https://github.com/airbnb/javascript)
 
 - blog
 
 1. [Dr. Axel Rauschmayer](https://2ality.com/)
 1. [Addy Osmani](https://addyosmani.com/blog/)
-1. [Dan Abramov](https://overreacted.io/)
-1. [Dave Ceddia](https://daveceddia.com/archives/)
 
 - tool
 
