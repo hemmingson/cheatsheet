@@ -28,6 +28,14 @@
         align-items: center;
       }
 
+      .mode {
+        position: fixed;
+        right: 1rem;
+        top: 1rem;
+        font-size: 20px;
+        cursor: pointer;
+      }
+
       @media screen and (max-device-width: 896px) {
         html {
           width: 100%;
@@ -55,6 +63,7 @@
   </head>
 
   <body>
+    <div class="mode">💡</div>
     <div class="row">
       <p>🔴 debouncing</p>
       <div class="content">
@@ -70,5 +79,15 @@
         <img src="assets/symbol-draw.svg" alt="" />
       </div>
     </div>
+
+    <script>
+      const mode = document.querySelector('.mode')
+      mode.addEventListener('click', () => {
+        document.querySelector('html').style.filter = `invert(1)`
+        document
+          .querySelectorAll('img')
+          .forEach((ele) => (ele.style.filter = `hue-rotate(.5turn)`))
+      })
+    </script>
   </body>
 </html>
