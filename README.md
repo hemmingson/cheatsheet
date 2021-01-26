@@ -20,6 +20,8 @@ cheatsheet
 
 - [performance optimize](#performance-optimize)
 
+- [dark mode](#dark-mode)
+
 ## resource
 
 - doc & tutorial
@@ -140,3 +142,12 @@ cheatsheet
       1. data uri
       1. don't rescale image in markup
       1. optimize image by lossless, lossy, progressive jpegs, etc.
+
+## dark mode
+
+1. detect user preference
+   1. `css` @media (prefers-color-scheme: dark)
+   1. `javascript` window.matchMedia()
+1. invert color
+   1. `filter` invert(1) hue-rotate(.5turn)
+   1. `mix-blend-mode` difference
