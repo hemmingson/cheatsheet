@@ -43,6 +43,8 @@ cheatsheet
 1. [getify](https://github.com/getify/You-Dont-Know-JS)
 1. [33 concepts](https://github.com/leonardomso/33-js-concepts)
 1. [clean code](https://github.com/ryanmcdermott/clean-code-javascript)
+1. [didact](https://github.com/pomber/didact)
+1. [the super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 - blog
 
