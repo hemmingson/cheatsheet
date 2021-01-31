@@ -58,12 +58,17 @@
         .content > img:nth-child(2) {
           width: 6rem;
         }
+
+        .mode {
+          font-size: 0.8rem;
+        }
       }
     </style>
   </head>
 
   <body>
     <div class="mode">💡</div>
+
     <div class="row">
       <p>🔴 debouncing</p>
       <div class="content">
@@ -81,13 +86,19 @@
     </div>
 
     <script>
-      const mode = document.querySelector('.mode')
-      mode.addEventListener('click', () => {
-        document.querySelector('html').style.filter = `invert(1)`
+      const switchMode = (dark) => {
+        document.querySelector('html').style.filter = dark ? `invert(1)` : ''
         document
           .querySelectorAll('img')
-          .forEach((ele) => (ele.style.filter = `hue-rotate(.5turn)`))
-      })
+          .forEach(
+            (ele) => (ele.style.filter = dark ? `hue-rotate(.5turn)` : '')
+          )
+      }
+      document
+        .querySelector('.mode')
+        .addEventListener('click', () =>
+          switchMode(!document.querySelector('html').style.filter)
+        )
     </script>
   </body>
 </html>
