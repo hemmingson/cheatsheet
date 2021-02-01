@@ -37,6 +37,7 @@ cheatsheet
 1. [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
 1. [Harvard CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 1. [MIT Online Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+1. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 - repo
 
