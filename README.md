@@ -121,11 +121,12 @@ cheatsheet
    1. compress and resize images
    1. use hamburger style navigation header
    1. disable popups
-   
+
 1. react native
 
-   1. `formula` px = dp * scale
-   1. `example` iphone4, 320 * 480dp, 2x
+   1. `formula` px = dp \* scale
+   1. `example` iphone4, 320 \* 480dp, 2x
+   1. `api` dimensions, pixelratio
 
 ## performance optimize
 
