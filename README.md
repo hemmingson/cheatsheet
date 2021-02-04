@@ -126,7 +126,7 @@ cheatsheet
 
    1. `formula` px = dp \* scale
    1. `example` iphone4, 320 \* 480dp, 2x
-   1. `api` dimensions, pixelratio
+   1. `api` Dimensions, PixelRatio
 
 ## performance optimize
 
