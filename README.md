@@ -167,5 +167,9 @@ cheatsheet
 ## git
 
 1. pull
+   1. `--no-ff` merge even fast-forward is possible
+   2. `--rebase` integrate change using rebase
 1. merge
-1. rebase
+   1. `--squash` combine all integrated change into a single commit
+   1. `--abort` abort merge and restore project state
+1. rebase differs from merge by rewriting commit history
