@@ -22,6 +22,8 @@ cheatsheet
 
 - [dark mode](#dark-mode)
 
+- [git](#git)
+
 ## resource
 
 - doc & tutorial
@@ -161,3 +163,9 @@ cheatsheet
 1. invert color
    1. `filter` invert(1) hue-rotate(.5turn)
    1. `mix-blend-mode` difference
+
+## git
+
+1. pull
+1. merge
+1. rebase
