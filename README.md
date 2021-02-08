@@ -22,8 +22,6 @@ cheatsheet
 
 - [dark mode](#dark-mode)
 
-- [git](#git)
-
 ## resource
 
 - doc & tutorial
@@ -163,13 +161,3 @@ cheatsheet
 1. invert color
    1. `filter` invert(1) hue-rotate(.5turn)
    1. `mix-blend-mode` difference
-
-## git
-
-1. pull
-   1. `--no-ff` merge even fast-forward is possible
-   2. `--rebase` integrate change using rebase
-1. merge
-   1. `--squash` combine all integrated change into a single commit
-   1. `--abort` abort merge and restore project state
-1. rebase differs from merge by rewriting commit history
