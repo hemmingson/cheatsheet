@@ -30,7 +30,7 @@ cheatsheet
 1. [MDN](https://developer.mozilla.org/en-US/)
 1. [Javascript Info](https://javascript.info/)
 1. [HTML Standard](https://html.spec.whatwg.org/multipage/)
-1. [CSS Syntax](https://www.w3.org/TR/css-syntax-3/)
+1. [CSS Standard](https://www.w3.org/TR/)
 
 - book & course
 
