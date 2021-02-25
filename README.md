@@ -53,6 +53,7 @@ cheatsheet
 
 1. [Dr. Axel Rauschmayer](https://2ality.com/)
 1. [Addy Osmani](https://addyosmani.com/blog/)
+1. [Josh W. Comeau](https://www.joshwcomeau.com/)
 
 - tool
 
