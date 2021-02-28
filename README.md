@@ -61,6 +61,7 @@ cheatsheet
 1. [Can I use](https://caniuse.com/)
 1. [Pika](https://www.pika.dev/)
 1. [BundlePhobia](https://bundlephobia.com/)
+1. [cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## tech stack
 
