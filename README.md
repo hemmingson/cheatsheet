@@ -49,6 +49,7 @@ cheatsheet
 1. [javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
 1. [didact](https://github.com/pomber/didact)
 1. [the super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+1. [snabbdom](https://github.com/snabbdom/snabbdom)
 
 - blog
 
