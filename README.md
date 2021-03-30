@@ -10,11 +10,7 @@ cheatsheet
 
 - [resource](#resource)
 
-- [tech stack](#tech-stack)
-
 - [commit message](#commit-message)
-
-- [create row](#create-row)
 
 - [responsive layout](#responsive-layout)
 
@@ -36,6 +32,7 @@ cheatsheet
 
 1. [MostlyAdequate](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 1. [Eloquent JavaScript](https://eloquentjavascript.net/)
+1. [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 1. [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
 1. [Harvard CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 1. [MIT Online Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -65,15 +62,6 @@ cheatsheet
 1. [BundlePhobia](https://bundlephobia.com/)
 1. [cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
-## tech stack
-
-| type     | link                                                |
-| -------- | --------------------------------------------------- |
-| style    | [styled-components](https://styled-components.com/) |
-| bundler  | [parcel](https://parceljs.org/)                     |
-| scaffold | [yeoman](https://yeoman.io/)                        |
-| command  | [ink](https://github.com/vadimdemedes/ink/)         |
-
 ## commit message
 
 1. `feat` new feature
@@ -91,22 +79,6 @@ cheatsheet
 1. `test` testing
 
 1. `chore` regular code maintenance
-
-## create row
-
-1. carbon
-
-   1. `theme` one light
-   1. `opacity` 0
-   1. `window controls` false
-   1. `padding` 0
-   1. `drop shadow` false
-   1. `font` fira code
-   1. `export` size 1x svg
-
-1. excalidraw
-
-   1. `export` svg
 
 ## responsive layout
 
