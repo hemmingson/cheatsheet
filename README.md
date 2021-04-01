@@ -6,18 +6,6 @@ cheatsheet
 
 ---
 
-## Table of Contents
-
-- [resource](#resource)
-
-- [commit message](#commit-message)
-
-- [responsive layout](#responsive-layout)
-
-- [performance optimize](#performance-optimize)
-
-- [dark mode](#dark-mode)
-
 ## resource
 
 - doc & tutorial
