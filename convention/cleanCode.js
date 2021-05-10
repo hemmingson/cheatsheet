@@ -56,3 +56,25 @@ const SECONDS_IN_A_DAY = 86400
 
 // avoid one-letter variable name
 const today = () => new Date()
+
+// object creation
+const obj1 = {}
+const obj2 = Object.create()
+const arr1 = []
+
+// object method shorthand
+const honor = {
+  add() {},
+}
+
+// no call object prototype method directly
+const has = Object.prototype.hasOwnProperty // cache
+console.log(has.call(o, key))
+
+// convert array-like to array
+const arr2 = Array.from(o)
+
+// mapping over iterables
+const arr3 = Array.from(arr, cb)
+
+// need return statement in array method callback
