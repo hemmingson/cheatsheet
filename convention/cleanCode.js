@@ -59,7 +59,7 @@ const today = () => new Date()
 
 // object creation
 const obj1 = {}
-const obj2 = Object.create()
+const obj2 = Object.create(null) // __proto__: undefined
 const arr1 = []
 
 // object method shorthand
