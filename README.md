@@ -18,9 +18,9 @@ cheatsheet
 
 - book & course
 
-1. [MostlyAdequate](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 1. [Eloquent JavaScript](https://eloquentjavascript.net/)
 1. [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+1. [MostlyAdequate](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 1. [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
 1. [Harvard CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 1. [MIT Online Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -31,9 +31,9 @@ cheatsheet
 1. [33 concepts](https://github.com/leonardomso/33-js-concepts)
 1. [clean code](https://github.com/ryanmcdermott/clean-code-javascript)
 1. [javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
-1. [didact](https://github.com/pomber/didact)
 1. [the super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 1. [snabbdom](https://github.com/snabbdom/snabbdom)
+1. [didact](https://github.com/pomber/didact)
 
 - blog
 
