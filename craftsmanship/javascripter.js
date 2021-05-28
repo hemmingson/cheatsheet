@@ -1,4 +1,4 @@
-/* let code speak for itself 🤓 */
+/* let code speak for itself 🤖 */
 
 // magic number
 const DAYS_IN_A_WEEK = 7
