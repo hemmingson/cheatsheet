@@ -1,6 +1,7 @@
 // javascript strange gotchas
 
 typeof null // object
+typeof NaN // number
 
 Boolean([]) // true
 console.log([] === false) // true
@@ -28,3 +29,12 @@ function makeArray() {
 }
 const arr = makeArray()
 arr[0]() // 5
+
+var foo = {
+	bar: function () { return this.baz },
+	baz: 1
+}
+// miss semicolon
+(function () {
+	return typeof arguments[0]()
+})(foo.bar) // error! ({bar:(function() { return this.baz; }), baz:1}) is not a function
