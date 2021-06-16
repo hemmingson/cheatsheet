@@ -38,3 +38,14 @@ var foo = {
 (function () {
 	return typeof arguments[0]()
 })(foo.bar) // error! ({bar:(function() { return this.baz; }), baz:1}) is not a function
+
+const async = 'async is not reserved', await = 'await is reserved'
+console.log(async, await) // no error
+async function insideAsync() {
+	const await = 'await is reserved' // error
+}
+
+let count = 0
+do {
+	count++
+} while(count < 1) // old school while loop
