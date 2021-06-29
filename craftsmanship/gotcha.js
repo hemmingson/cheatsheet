@@ -37,7 +37,7 @@ var foo = {
 // miss semicolon
 (function () {
 	return typeof arguments[0]()
-})(foo.bar) // error! ({bar:(function() { return this.baz; }), baz:1}) is not a function
+})(foo.bar) // error! ({ bar:(function() { return this.baz; }), baz:1 }) is not a function
 
 const async = 'async is not reserved', await = 'await is reserved'
 console.log(async, await) // no error
