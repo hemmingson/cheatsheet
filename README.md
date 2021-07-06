@@ -11,12 +11,12 @@ cheatsheet
 - doc & tutorial
 
 1. [MDN](https://developer.mozilla.org/en-US/)
-1. [mozilla hacks](https://hacks.mozilla.org/)
+1. [Mozilla Hacks](https://hacks.mozilla.org/)
 1. [Javascript Info](https://javascript.info/)
 1. [TC39](https://tc39.es/)
 1. [HTML Standard](https://html.spec.whatwg.org/multipage/)
 1. [CSS Standard](https://www.w3.org/TR/)
-1. [css reference](https://cssreference.io/)
+1. [CSS Reference](https://cssreference.io/)
 1. [V8 Docs](https://v8.dev/docs)
 
 - book & course
