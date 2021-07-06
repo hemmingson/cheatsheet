@@ -16,6 +16,7 @@ cheatsheet
 1. [TC39](https://tc39.es/)
 1. [HTML Standard](https://html.spec.whatwg.org/multipage/)
 1. [CSS Standard](https://www.w3.org/TR/)
+1. [css reference](https://cssreference.io/)
 1. [V8 Docs](https://v8.dev/docs)
 
 - book & course
