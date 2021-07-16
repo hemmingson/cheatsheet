@@ -4,6 +4,16 @@
 
 ### :hurtrealbad: Junior
 
+[MDN](https://developer.mozilla.org/en-US/)
+
 ### :feelsgood: Intermediate
 
+[V8](https://v8.dev/)
+
 ### :godmode: Senior
+
+[WHATWG](https://whatwg.org/)
+
+[W3C](https://www.w3.org/)
+
+[TC39](https://tc39.es/)
